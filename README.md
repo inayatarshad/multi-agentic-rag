@@ -56,16 +56,7 @@ START
 
 ---
 
-## 🖼️ Screenshots
 
-<img width="1287" height="636" alt="image" src="https://github.com/user-attachments/assets/af0aeb91-2421-4002-ad90-1f94e4cbba1e" />
-<img width="1365" height="620" alt="image" src="https://github.com/user-attachments/assets/6b6609be-ac6d-4acc-9fa9-872bb2d5d70a" />
-<img width="1301" height="629" alt="image" src="https://github.com/user-attachments/assets/066c2b1d-215e-4625-be8b-1d8bc87ec2a3" />
-<img width="1329" height="634" alt="image" src="https://github.com/user-attachments/assets/c2d4fbb3-fbb8-4a7f-b137-a9d81dd49df7" />
-<img width="1365" height="631" alt="image" src="https://github.com/user-attachments/assets/9f103dba-2016-4edd-8652-79f563b62b47" />
-<img width="433" height="629" alt="image" src="https://github.com/user-attachments/assets/02bfe633-e301-4281-8079-11accbc28195" />
-
----
 
 ## 🚀 Quick Start
 
