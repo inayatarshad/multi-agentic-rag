@@ -1,0 +1,39 @@
+# ─────────────────────────────────────────
+# Multi-Agent Agentic RAG System
+# requirements.txt
+# ─────────────────────────────────────────
+
+
+# ── Application framework ──────────────────
+streamlit>=1.35.0
+
+# ── LangChain core stack ───────────────────
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-community>=0.2.0
+langgraph>=0.1.0
+
+# ── Embeddings (local, no API key needed) ──
+sentence-transformers>=2.7.0
+
+# ── Model integrations ─────────────────────
+langchain-groq>=0.1.0
+langchainhub>=0.1.15
+
+# ── Web search ─────────────────────────────
+tavily-python>=0.3.0
+
+# ── Document loaders ───────────────────────
+pypdf>=4.0.0
+docx2txt>=0.8
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# ── Vector store ───────────────────────────
+chromadb>=0.5.0
+
+# ── Pydantic (LangChain v1 compat) ────────
+pydantic>=1.10.0,<2.0.0
+
+# ── Misc utilities ─────────────────────────
+tiktoken>=0.7.0
